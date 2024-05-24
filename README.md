@@ -13,7 +13,9 @@ Basic Nitro Generator without Checker | With Java | No API
 - Update your JAVA_HOME environment variable to point to the newly installed JDK/JRE.
 - Ensure your system PATH includes the bin directory of the new JDK/JRE.
 
-3. **Compile the Java File:**
+# Steps to use Nitro Generator
+
+1. **Compile the Java File:**
 
 - Use the javac command to compile the Java file. Make sure you are in the src directory:
 
@@ -23,7 +25,7 @@ javac org/tempmahmoud/Main.java
 ```
 - This command generates the Main.class file in the org/tempmahmoud/ directory.
 
-4. **Run the Compiled Class:**
+2. **Run the Compiled Class:**
 
 - Run the compiled class using the fully qualified name from the root of the source directory:
 ```sh
