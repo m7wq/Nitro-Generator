@@ -16,7 +16,8 @@ Basic Nitro Generator without Checker | With Java | No API
 # Steps to use Nitro Generator
 
 1. **Compile the Java File:**
-
+- Download the code (Zip Download)
+- Extract it
 - Use the javac command to compile the Java file. Make sure you are in the src directory:
 
 ```sh
